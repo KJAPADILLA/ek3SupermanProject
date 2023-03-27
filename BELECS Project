@@ -1,0 +1,21 @@
+Project Title: LED Blinker Lights with Transformer and Capacitor
+
+Project Description:
+The project aims to design and create a set of LED blinker lights that can be used for both safety and decoration purposes. The LED blinker lights will be designed to provide high visibility to vehicles and pedestrians during low light conditions, such as foggy weather, night time, or dark places. The blinker lights can also be used for decorative purposes, such as for home or party decorations. The LED blinker lights will be powered by a transformer and a capacitor instead of a microcontroller, making it a simpler and more cost-effective design.
+
+Purpose:
+The purpose of experimenting with a double LED blinker light circuit is to understand the basic principles of electronic circuits and to learn how to create a simple electronic device. The LED blinker circuit is a popular circuit for beginners in electronics because it is easy to build and requires only a few components.
+
+By building a double LED blinker circuit, you can learn about the properties of different electronic components, such as resistors, capacitors, and transistors. You can also learn about the concept of voltage and current, and how they are used to power electronic devices. And this circuit or experiment can enhance on-hand experiments to prepare for basics of becoming an professional engineer.
+
+Materials:
+
+-Transformer (e.g., 12V transformer)
+-Capacitor (e.g., 2200uF)
+-LED lights (e.g, depending on the available LED)
+-Resistors (e.g., 220 ohms)
+-Breadboard 
+-Jumper wires
+
+Schematic Drawing:
+Here is the schematic drawing for the LED blinker lights with a transformer and capacitor:
